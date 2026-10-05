@@ -1,23 +1,20 @@
 # Hi, I'm Gwangyun Kim 👋
 
-I'm interested in embedded systems, software security, and reliable firmware updates.
+I'm interested in **Automotive Cybersecurity**.
 
 ## About Me
 
-- Building a Secure OTA prototype with STM32 boards and a Raspberry Pi.
-- Exploring how device status and safety checks can guide firmware update order.
+I learn through hands-on projects involving embedded systems, software, and security.
 
-## Featured Project
+## Projects
 
-### [Safety-First Hybrid AI Secure OTA](https://github.com/rhkddbs2714/OTA_main)
+- [Safety-First Hybrid AI Secure OTA](https://github.com/rhkddbs2714/OTA_main) — An STM32-based firmware update prototype with verification and A/B slots.
 
-A prototype for updating three STM32 ECUs. It brings together metadata and image verification, A/B firmware slots, safety checks, and AI-assisted update ordering.
-
-## Tech I've Worked With
+## Skills & Tools
 
 <img src="https://skillicons.dev/icons?i=py,c,raspberrypi,git&theme=light" alt="Python, C, Raspberry Pi, Git" />
 
-`STM32` · `MQTT` · `HTTPS` · `Firmware update`
+`STM32` · `MQTT` · `HTTPS`
 
 ## Contact
 
