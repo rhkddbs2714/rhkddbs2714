@@ -8,7 +8,7 @@ I'm exploring vehicle security broadly rather than focusing on one specialty. Ha
 
 ## Education & Activities
 
-- **Kookmin University**
+- **Kookmin University** — Department of Automobile and IT convergence
 - **KUSE** — automotive cybersecurity club member
 
 ## Areas I'm Exploring
