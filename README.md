@@ -19,11 +19,11 @@ I'm exploring vehicle security broadly rather than focusing on one specialty. Ha
 
 ## Projects
 
-### Automotive Fuzzing · In progress
+### Automotive Fuzzing
 
 An ongoing project exploring fuzzing techniques for vehicle systems.
 
-### [Safety-First Hybrid AI Secure OTA](https://github.com/rhkddbs2714/OTA_main) · Near completion
+### Safety-First Hybrid AI Secure OTA
 
 An STM32 and Raspberry Pi firmware update prototype with verification, safety checks, and A/B slots.
 
